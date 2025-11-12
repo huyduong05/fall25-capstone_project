@@ -1,1 +1,1 @@
-# spring25-capstone_project
+# fall25-capstone_project
